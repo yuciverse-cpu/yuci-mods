@@ -1,0 +1,6 @@
+{
+  "name": "token-gauge",
+  "version": "0.2.0",
+  "description": "프롬프트 위 한 줄로 사용량 관리: 한도 리셋 시각, 긴 로그 줄이기, 필요할 때 /compact·/clear 배지",
+  "types": "./types/index.d.ts"
+}

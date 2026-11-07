@@ -1,0 +1,12 @@
+{
+  "name": "yuci-mods",
+  "owner": { "name": "yuci" },
+  "description": "내가 만든 Claude 앱 mod 보관함",
+  "plugins": [
+    {
+      "name": "token-gauge",
+      "source": "./mods/token-gauge",
+      "description": "프롬프트 위 한 줄로 토큰 사용량 관리: 한도 리셋, 로그축약, 사용처, 캐시, 큰 작업 경고"
+    }
+  ]
+}
